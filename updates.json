@@ -1,5 +1,12 @@
 [
   {
+    "id": "wh-finance-1-1-sparen",
+    "title": "Sparen staat nu standaard klaar",
+    "version": "Versie 1.1",
+    "date": "2026-10-13",
+    "description": "De categorie Sparen staat voortaan automatisch bovenaan bij Uitgaven. Je hoeft deze niet meer zelf toe te voegen. Vul elke maand in hoeveel je opzijzet: WH Finance toont dit bij Sparen deze maand en trekt het af van Vrij over na sparen. Je bestaande bedragen blijven behouden."
+  },
+  {
     "id": "wh-finance-1-0",
     "title": "Welkom bij WH Finance",
     "version": "Versie 1.0",

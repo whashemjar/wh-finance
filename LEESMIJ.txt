@@ -1,5 +1,3 @@
-WH Finance — update met 3 introductieschermen
-
-Upload alle bestanden uit deze ZIP naar de hoofdmap van je GitHub-repository wh-finance en vervang bestaande bestanden.
-De introductie verschijnt eenmalig per browser/apparaat na het invullen van de naam (of bij bestaande gebruikers na de update). Overslaan is mogelijk.
-Financiële gegevens blijven lokaal opgeslagen. Maak regelmatig een JSON-back-up.
+WH Finance update: Sparen standaard aanwezig.
+Upload de bestanden uit deze map naar de hoofdmap van je GitHub repository wh-finance en vervang de bestaande bestanden.
+Maak voor de zekerheid eerst een JSON-back-up via WH Finance.
