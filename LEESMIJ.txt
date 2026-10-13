@@ -1,5 +1,1 @@
-WH Finance — Sparen apart, meldingen opgeschoond.
-
-Upload index.html, sw.js, updates.json, manifest.webmanifest, icon-192.png en icon-512.png naar de hoofdmap van je GitHub-repository. Upload LEESMIJ.txt niet. Maak eerst een JSON-back-up.
-
-Meldingen: de nieuwe melding over Sparen als eigen onderdeel blijft staan. De verouderde meldingen over Sparen als uitgavencategorie en Spaardoelen zijn verwijderd.
+WH Finance: opgeruimd dashboard. Wis maand staat bovenaan bij de maandselectie. Importeren/exporteren staan onder Instellingen om back-ups mogelijk te houden. Privacytekst onderaan. Geen nieuwe melding. Upload de 6 app-bestanden (niet LEESMIJ.txt). Maak eerst een JSON-back-up.
