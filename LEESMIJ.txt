@@ -1,3 +1,5 @@
-WH Finance update: Sparen standaard aanwezig.
-Upload de bestanden uit deze map naar de hoofdmap van je GitHub repository wh-finance en vervang de bestaande bestanden.
-Maak voor de zekerheid eerst een JSON-back-up via WH Finance.
+WH Finance — Sparen apart, meldingen opgeschoond.
+
+Upload index.html, sw.js, updates.json, manifest.webmanifest, icon-192.png en icon-512.png naar de hoofdmap van je GitHub-repository. Upload LEESMIJ.txt niet. Maak eerst een JSON-back-up.
+
+Meldingen: de nieuwe melding over Sparen als eigen onderdeel blijft staan. De verouderde meldingen over Sparen als uitgavencategorie en Spaardoelen zijn verwijderd.
