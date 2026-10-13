@@ -1,11 +1,5 @@
-WH Finance — GitHub Pages
+WH Finance — update met 3 introductieschermen
 
-Upload alle bestanden uit deze map naar de hoofdmap (root) van je openbare GitHub-repository wh-finance. Upload NIET het ZIP-bestand zelf.
-
-Ga naar Settings > Pages > Deploy from a branch > main > /(root) > Save.
-
-Nieuwe meldingen: pas updates.json aan. Gebruik voor elke nieuwe melding een unieke id, titel, versie, datum en description. Publiceer wijzigingen via Commit changes.
-
-Persoonlijke gegevens worden lokaal opgeslagen en niet gesynchroniseerd. Maak regelmatig een JSON-back-up.
-
-Versie 4: welkomstscherm bij eerste gebruik. Vul eerst je naam in om het dashboard te openen. Bestaande gebruikers zien het scherm niet opnieuw.
+Upload alle bestanden uit deze ZIP naar de hoofdmap van je GitHub-repository wh-finance en vervang bestaande bestanden.
+De introductie verschijnt eenmalig per browser/apparaat na het invullen van de naam (of bij bestaande gebruikers na de update). Overslaan is mogelijk.
+Financiële gegevens blijven lokaal opgeslagen. Maak regelmatig een JSON-back-up.
