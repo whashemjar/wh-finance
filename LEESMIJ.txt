@@ -1,0 +1,9 @@
+WH Finance — GitHub Pages
+
+Upload alle bestanden uit deze map naar de hoofdmap (root) van je openbare GitHub-repository wh-finance. Upload NIET het ZIP-bestand zelf.
+
+Ga naar Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+Nieuwe meldingen: pas updates.json aan. Gebruik voor elke nieuwe melding een unieke id, titel, versie, datum en description. Publiceer wijzigingen via Commit changes.
+
+Persoonlijke gegevens worden lokaal opgeslagen en niet gesynchroniseerd. Maak regelmatig een JSON-back-up.
