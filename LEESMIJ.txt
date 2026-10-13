@@ -7,3 +7,5 @@ Ga naar Settings > Pages > Deploy from a branch > main > /(root) > Save.
 Nieuwe meldingen: pas updates.json aan. Gebruik voor elke nieuwe melding een unieke id, titel, versie, datum en description. Publiceer wijzigingen via Commit changes.
 
 Persoonlijke gegevens worden lokaal opgeslagen en niet gesynchroniseerd. Maak regelmatig een JSON-back-up.
+
+Versie 4: welkomstscherm bij eerste gebruik. Vul eerst je naam in om het dashboard te openen. Bestaande gebruikers zien het scherm niet opnieuw.
